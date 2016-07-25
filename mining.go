@@ -10,10 +10,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/mining"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dashpay/godash/blockchain"
+	"github.com/dashpay/godash/mining"
+	"github.com/dashpay/godash/txscript"
+	"github.com/dashpay/godash/wire"
 	"github.com/btcsuite/btcutil"
 )
 

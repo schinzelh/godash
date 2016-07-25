@@ -7,7 +7,7 @@ package blockchain_test
 import (
 	"testing"
 
-	"github.com/btcsuite/btcd/blockchain"
+	"github.com/dashpay/godash/blockchain"
 )
 
 // TestErrorCodeStringer tests the stringized output for the ErrorCode type.

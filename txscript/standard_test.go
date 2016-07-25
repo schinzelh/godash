@@ -10,8 +10,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/txscript"
+	"github.com/dashpay/godash/chaincfg"
+	"github.com/dashpay/godash/txscript"
 	"github.com/btcsuite/btcutil"
 )
 

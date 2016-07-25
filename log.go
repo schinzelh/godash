@@ -8,12 +8,12 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/btcsuite/btcd/addrmgr"
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/blockchain/indexers"
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/peer"
-	"github.com/btcsuite/btcd/txscript"
+	"github.com/dashpay/godash/addrmgr"
+	"github.com/dashpay/godash/blockchain"
+	"github.com/dashpay/godash/blockchain/indexers"
+	"github.com/dashpay/godash/database"
+	"github.com/dashpay/godash/peer"
+	"github.com/dashpay/godash/txscript"
 	"github.com/btcsuite/btclog"
 	"github.com/btcsuite/seelog"
 )

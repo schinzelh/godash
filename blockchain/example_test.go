@@ -10,10 +10,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/database"
-	_ "github.com/btcsuite/btcd/database/ffldb"
+	"github.com/dashpay/godash/blockchain"
+	"github.com/dashpay/godash/chaincfg"
+	"github.com/dashpay/godash/database"
+	_ "github.com/dashpay/godash/database/ffldb"
 	"github.com/btcsuite/btcutil"
 )
 

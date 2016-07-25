@@ -5,7 +5,7 @@
 package txscript
 
 import (
-	"github.com/btcsuite/btcd/chaincfg"
+	"github.com/dashpay/godash/chaincfg"
 	"github.com/btcsuite/btcutil"
 )
 

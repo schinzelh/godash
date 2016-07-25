@@ -7,8 +7,8 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dashpay/godash/database"
+	"github.com/dashpay/godash/wire"
 	"github.com/btcsuite/btcutil"
 )
 

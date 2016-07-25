@@ -9,7 +9,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/btcsuite/btcd/peer"
+	"github.com/dashpay/godash/peer"
 )
 
 func TestSetLogWriter(t *testing.T) {

@@ -14,9 +14,9 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/database/internal/treap"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dashpay/godash/database"
+	"github.com/dashpay/godash/database/internal/treap"
+	"github.com/dashpay/godash/wire"
 	"github.com/btcsuite/btcutil"
 	"github.com/btcsuite/goleveldb/leveldb"
 	"github.com/btcsuite/goleveldb/leveldb/comparer"

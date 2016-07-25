@@ -9,11 +9,11 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dashpay/godash/blockchain"
+	"github.com/dashpay/godash/chaincfg"
+	"github.com/dashpay/godash/database"
+	"github.com/dashpay/godash/txscript"
+	"github.com/dashpay/godash/wire"
 	"github.com/btcsuite/btcutil"
 )
 

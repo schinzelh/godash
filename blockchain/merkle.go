@@ -7,7 +7,7 @@ package blockchain
 import (
 	"math"
 
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dashpay/godash/wire"
 	"github.com/btcsuite/btcutil"
 )
 

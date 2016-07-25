@@ -9,8 +9,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/database"
+	"github.com/dashpay/godash/chaincfg"
+	"github.com/dashpay/godash/database"
 	"github.com/btcsuite/btcutil"
 )
 

@@ -17,8 +17,8 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dashpay/godash/database"
+	"github.com/dashpay/godash/wire"
 )
 
 const (

@@ -20,9 +20,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/btcsuite/btcd/database"
-	_ "github.com/btcsuite/btcd/database/ffldb"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/dashpay/godash/database"
+	_ "github.com/dashpay/godash/database/ffldb"
+	"github.com/dashpay/godash/wire"
 	"github.com/btcsuite/btcutil"
 	flags "github.com/btcsuite/go-flags"
 	"github.com/btcsuite/go-socks/socks"
